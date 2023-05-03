@@ -1,103 +1,103 @@
 Class,Accuracy
-black-eyed susan,94.11764705882354%
-bishop of llandaff,93.25842696629213%
-gazania,91.37931034482759%
+black-eyed susan,97.05882352941177%
 pink-yellow dahlia?,91.01123595505618%
-carnation,9.375%
-sunflower,87.8048780487805%
-osteospermum,87.8048780487805%
-cautleya spicata,86.66666666666667%
-oxeye daisy,86.20689655172414%
-orange dahlia,85.1063829787234%
-cape flower,81.81818181818181%
-camellia,8.450704225352112%
-blanket flower,79.3103448275862%
-pelargonium,78.43137254901961%
-silverbush,78.125%
-globe thistle,76.0%
-spear thistle,75.0%
-common dandelion,73.61111111111111%
-geranium,71.27659574468085%
-wild pansy,70.76923076923077%
-snapdragon,7.462686567164179%
-alpine sea holly,69.56521739130434%
-gaura,65.95744680851064%
-yellow iris,65.51724137931035%
-purple coneflower,63.07692307692308%
-fire lily,60.0%
-barbeton daisy,6.542056074766355%
-columbine,6.0606060606060606%
-buttercup,58.8235294117647%
-hard-leaved pocket orchid,57.5%
-tree poppy,57.142857142857146%
-toad lily,57.142857142857146%
-colt's foot,56.71641791044776%
-pincushion flower,56.41025641025641%
-great masterwort,55.55555555555556%
-pink primrose,55.0%
-moon orchid,55.0%
-stemless gentian,54.34782608695652%
-bird of paradise,53.84615384615385%
-love in the mist,53.84615384615385%
-desert-rose,53.48837209302326%
-tree mallow,52.63157894736842%
+osteospermum,90.2439024390244%
+magnolia,9.30232558139535%
+azalea,9.210526315789474%
+morning glory,9.195402298850574%
+orange dahlia,87.23404255319149%
+pelargonium,84.31372549019608%
+geranium,79.7872340425532%
+gazania,79.3103448275862%
+sunflower,78.04878048780488%
+cape flower,75.0%
+oxeye daisy,72.41379310344827%
+silverbush,71.875%
+pincushion flower,7.6923076923076925%
+buttercup,68.62745098039215%
+spear thistle,67.85714285714286%
+hard-leaved pocket orchid,67.5%
+globe thistle,64.0%
+stemless gentian,63.04347826086956%
+bird of paradise,61.53846153846154%
+love in the mist,61.53846153846154%
+tree mallow,60.526315789473685%
+moon orchid,60.0%
+gaura,59.57446808510638%
+corn poppy,57.142857142857146%
+bishop of llandaff,55.056179775280896%
 hippeastrum ,51.785714285714285%
-artichoke,51.724137931034484%
-frangipani,50.68493150684932%
-watercress,50.609756097560975%
-red ginger,50.0%
-bearded iris,50.0%
-windflower,50.0%
-bougainvillea,5.555555555555555%
-canterbury bells,5.0%
-tiger lily,48.0%
-ruby-lipped cattleya,47.27272727272727%
-mexican petunia,45.16129032258065%
-prince of wales feathers,45.0%
-californian poppy,43.90243902439025%
-globe-flower,42.857142857142854%
-grape hyacinth,42.857142857142854%
-blackberry lily,42.857142857142854%
-marigold,42.5531914893617%
-giant white arum lily,41.666666666666664%
-balloon flower,41.37931034482759%
-english marigold,40.0%
-magnolia,39.53488372093023%
-king protea,37.93103448275862%
-sweet william,36.92307692307692%
-trumpet creeper,36.8421052631579%
-wallflower,35.79545454545455%
-corn poppy,33.333333333333336%
-thorn apple,33.0%
-poinsettia,32.87671232876713%
-bee balm,32.608695652173914%
-spring crocus,31.818181818181817%
-fritillary,30.985915492957748%
-daffodil,30.76923076923077%
-lotus,29.05982905982906%
-japanese anemone,28.571428571428573%
-petunia,28.15126050420168%
-lenten rose,23.404255319148938%
-monkshood,23.076923076923077%
-mallow,21.73913043478261%
-passion flower,21.645021645021647%
-peruvian lily,20.967741935483872%
-bromelia,20.930232558139537%
-morning glory,20.689655172413794%
-bolero deep blue,20.0%
-azalea,19.736842105263158%
-rose,17.218543046357617%
-sweet pea,16.666666666666668%
-foxglove,16.197183098591548%
-canna lily,16.129032258064516%
-garden phlox,16.0%
-ball moss,15.384615384615385%
-primula,15.068493150684931%
+sweet william,50.76923076923077%
+fire lily,50.0%
+japanese anemone,5.714285714285714%
+prince of wales feathers,5.0%
+bolero deep blue,5.0%
+common dandelion,48.611111111111114%
+californian poppy,47.5609756097561%
+purple coneflower,44.61538461538461%
+pink primrose,40.0%
+globe-flower,4.761904761904762%
+rose,4.635761589403973%
+water lily,4.597701149425287%
+tiger lily,4.0%
+thorn apple,38.0%
+watercress,37.80487804878049%
+frangipani,36.3013698630137%
+poinsettia,35.61643835616438%
+english marigold,35.55555555555556%
+alpine sea holly,34.78260869565217%
+blanket flower,34.48275862068966%
+tree poppy,33.333333333333336%
+red ginger,31.818181818181817%
+yellow iris,31.03448275862069%
+balloon flower,31.03448275862069%
+lotus,30.76923076923077%
+ball moss,3.8461538461538463%
+petunia,3.361344537815126%
+clematis,3.260869565217391%
+passion flower,3.0303030303030303%
+great masterwort,27.77777777777778%
+wild pansy,27.692307692307693%
+marigold,25.53191489361702%
+colt's foot,23.880597014925375%
+wallflower,23.863636363636363%
+siam tulip,23.80952380952381%
+toad lily,23.80952380952381%
+giant white arum lily,22.22222222222222%
+artichoke,20.689655172413794%
+bearded iris,20.58823529411765%
+windflower,20.58823529411765%
+camellia,2.816901408450704%
+primula,2.73972602739726%
+foxglove,2.112676056338028%
+mallow,19.565217391304348%
+mexican petunia,19.35483870967742%
+desert-rose,18.6046511627907%
+blackberry lily,17.857142857142858%
+anthurium,16.470588235294116%
+bromelia,16.27906976744186%
+monkshood,15.384615384615385%
 mexican aster,15.0%
-cyclamen ,14.925373134328359%
-siam tulip,14.285714285714286%
-hibiscus,13.513513513513514%
-anthurium,12.941176470588236%
-sword lily,11.818181818181818%
-water lily,10.919540229885058%
-clematis,10.869565217391305%
+lenten rose,14.893617021276595%
+grape hyacinth,14.285714285714286%
+fritillary,14.084507042253522%
+trumpet creeper,13.157894736842104%
+daffodil,12.820512820512821%
+cautleya spicata,100.0%
+king protea,10.344827586206897%
+ruby-lipped cattleya,1.8181818181818181%
+hibiscus,1.8018018018018018%
+columbine,1.5151515151515151%
+barbeton daisy,0.9345794392523364%
+cyclamen ,0.746268656716418%
+canterbury bells,0.0%
+sweet pea,0.0%
+snapdragon,0.0%
+peruvian lily,0.0%
+carnation,0.0%
+garden phlox,0.0%
+sword lily,0.0%
+spring crocus,0.0%
+canna lily,0.0%
+bee balm,0.0%
+bougainvillea,0.0%
