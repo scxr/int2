@@ -2,3 +2,4 @@ venv/
 models/
 data/
 flowers/
+*.pth
